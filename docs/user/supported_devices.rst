@@ -35,7 +35,6 @@ ath79-generic
   - DAP-2660 A1 [#lan_as_wan]_
   - DIR-505 A1 [#lan_as_wan]_
   - DIR-505 A2 [#lan_as_wan]_
-  - DIR-825 B1
 
 * Enterasys
 
@@ -115,7 +114,6 @@ ath79-generic
   - CPE510 (v1.0, v1.1, v2.0, v3.0)
   - CPE710 (v1.0)
   - EAP225-Outdoor (v1)
-  - RE450 (v1)
   - TL-WDR3500 (v1)
   - TL-WDR3600 (v1)
   - TL-WDR4300 (v1)
@@ -447,7 +445,6 @@ ramips-mt76x8
   - Archer C20 (v4, v5)
   - Archer C50 (v3, v4)
   - RE200 (v2, v3)
-  - RE305 (v1) [#device-class-tiny]
   - TL-MR3020 (v3)
   - TL-MR3420 (v5)
   - TL-MR6400 (v5)
